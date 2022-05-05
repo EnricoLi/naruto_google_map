@@ -8,8 +8,8 @@ Find the project requirements here: [Build a custom google maps theme](https://w
 ![image](https://user-images.githubusercontent.com/87574717/167017699-b0b377af-ec82-40e0-94cc-9c85eb2649de.png)
 
 ## Installation
-Make a clone of the repository.__
-Add an api key to a config.js file in the project root folder with the following object:__
+Make a clone of the repository. <br />
+Add an api key to a config.js file in the project root folder with the following object: <br />
   const config = {
     MAP_ID : 'YOUR_ID',
     SECRET_API_KEY : 'YOUR_API_KEY',
